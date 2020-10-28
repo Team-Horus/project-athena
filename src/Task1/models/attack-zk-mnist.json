@@ -1,0 +1,112 @@
+{
+  "num_attacks": 18,
+  "configs0": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.07",
+    "eps": 0.07
+  },
+
+  "configs1": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.10",
+    "eps": 0.10
+  },
+
+  "configs2": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.15",
+    "eps": 0.15
+  },
+
+  "configs3": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.20",
+    "eps": 0.20
+  },
+
+  "configs4": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.25",
+    "eps": 0.25
+  },
+
+  "configs5": {
+    "attack": "fgsm",
+    "description": "FGSM_eps0.30",
+    "eps": 0.30
+  },
+
+  "configs6": {
+    "attack": "pgd",
+    "description": "PGD_eps0.07",
+    "eps": 0.07
+  },
+
+  "configs7": {
+    "attack": "pgd",
+    "description": "PGD_eps0.10",
+    "eps": 0.10
+  },
+
+  "configs8": {
+    "attack": "pgd",
+    "description": "PGD_eps0.15",
+    "eps": 0.15
+  },
+
+  "configs9": {
+    "attack": "pgd",
+    "description": "PGD_eps0.20",
+    "eps": 0.20
+  },
+
+  "configs10": {
+    "attack": "pgd",
+    "description": "PGD_eps0.25",
+    "eps": 0.25
+  },
+
+  "configs11": {
+    "attack": "pgd",
+    "description": "PGD_eps0.30",
+    "eps": 0.30
+  },
+
+  "configs12": {
+    "attack": "bim",
+    "description": "BIM_eps0.07",
+    "eps": 0.07
+  },
+
+  "configs13": {
+    "attack": "bim",
+    "description": "BIM_eps0.10",
+    "eps": 0.10
+  },
+
+  "configs14": {
+    "attack": "bim",
+    "description": "BIM_eps0.15",
+    "eps": 0.15
+  },
+
+  "configs15": {
+    "attack": "bim",
+    "description": "BIM_eps0.20",
+    "eps": 0.20
+  },
+
+  "configs16": {
+    "attack": "bim",
+    "description": "BIM_eps0.25",
+    "eps": 0.25
+  },
+
+  "configs17": {
+    "attack": "bim",
+    "description": "BIM_eps0.30",
+    "eps": 0.30
+  }
+
+}
+
